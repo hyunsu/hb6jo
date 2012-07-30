@@ -1,2 +1,3 @@
 hy olleh
 한글나옴?
+:set fileencodings=utf-8,cp949
